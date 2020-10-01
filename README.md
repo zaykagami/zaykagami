@@ -1,2 +1,2 @@
 # zaykagami
-vidio streaming
+video streaming
